@@ -1,0 +1,7 @@
+D:\ratu\ClassAndObjectTaxi\ClassAndObjetTaxi\ClassAndObjetTaxi\bin\Debug\ClassAndObjetTaxi.exe.config
+D:\ratu\ClassAndObjectTaxi\ClassAndObjetTaxi\ClassAndObjetTaxi\bin\Debug\ClassAndObjetTaxi.exe
+D:\ratu\ClassAndObjectTaxi\ClassAndObjetTaxi\ClassAndObjetTaxi\bin\Debug\ClassAndObjetTaxi.pdb
+D:\ratu\ClassAndObjectTaxi\ClassAndObjetTaxi\ClassAndObjetTaxi\obj\Debug\ClassAndObjetTaxi.csprojAssemblyReference.cache
+D:\ratu\ClassAndObjectTaxi\ClassAndObjetTaxi\ClassAndObjetTaxi\obj\Debug\ClassAndObjetTaxi.csproj.CoreCompileInputs.cache
+D:\ratu\ClassAndObjectTaxi\ClassAndObjetTaxi\ClassAndObjetTaxi\obj\Debug\ClassAndObjetTaxi.exe
+D:\ratu\ClassAndObjectTaxi\ClassAndObjetTaxi\ClassAndObjetTaxi\obj\Debug\ClassAndObjetTaxi.pdb
